@@ -1,0 +1,60 @@
+{
+  "id": "ITH",
+  "name": "Ithaca, Washington, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/ithaca-ny-aerial-view-of-lake-cayuga-picture-id128387973?k=6&m=128387973&s=612x612&w=0&h=5mqxjsPGF4xhY99SNxXJIJ2uuwgXH9a1f9PTBSTbC9c=",
+  "timezone": "America/New_York",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "CTRAN",
+        "name": "Chemung County Transit"
+      },
+      {
+        "id": "TCAT",
+        "name": "Tompkins Consolidated Area Transit"
+      }
+    ],
+    "records": [
+      {
+        "filename": "ELM-CTRAN_30-CTRAN_1451-201912242143.jpg",
+        "notes": "An Elmira bound Chemung County Transit Route 30 bus was seen at E Seneca St & N Tioga St in Downtown Ithaca."
+      },
+      {
+        "filename": "ITH-TCAT_53-TCAT_1903-201911112259.jpg",
+        "notes": "A Brooktondale bound TCAT Route 53 bus was seen at East Ave & Campus Rd on the Cornell University campus."
+      },
+      {
+        "filename": "ITH-TCAT_30-TCAT_1905-201911032218.jpg",
+        "notes": "A Downtown Ithaca bound TCAT Route 30 bus was seen laying over at Ithaca Mall."
+      },
+      {
+        "filename": "ITH-TCAT_32-TCAT_1904-201910242138.jpg",
+        "notes": "[SPECIAL] A Downtown Ithaca bound TCAT Route 32 bus was seen at Hoy Rd & Campus Rd on the Cornell University campus. Due to the construction of College Ave, Route 32 was detoured, running on Ithaca Rd, Dryden Rd and Hoy Rd in Collegetown."
+      },
+      {
+        "filename": "ITH-TCAT_32-TCAT_1904-201910242034.jpg",
+        "notes": "A Lansing bound TCAT Route 30 bus, a Lansing bound TCAT Route 32 bus and a Downtown Ithaca bound TCAT Route 30 bus were seen at E State St & Mitchell St in Collegetown."
+      },
+      {
+        "filename": "ITH-TCAT_30-TCAT_607-201910242034.jpg",
+        "notes": "A Lansing bound TCAT Route 30 bus and a Downtown Ithaca bound TCAT Route 30 bus were seen at E State St & Mitchell St in Collegetown."
+      },
+      {
+        "filename": "ITH-TCAT_30-TCAT_1901-201910032009.jpg",
+        "notes": "A Downtown Ithaca bound TCAT Route 30 bus was seen at East Ave & Campus Rd on the Cornell University campus."
+      },
+      {
+        "filename": "ITH-TCAT_17-TCAT_1901-201910022347.jpg",
+        "notes": "A Downtown Ithaca bound TCAT Route 17 bus was seen at East Ave & Campus Rd on the Cornell University campus."
+      },
+      {
+        "filename": "ITH-TCAT_30-TCAT_1905-201910022344.jpg",
+        "notes": "A Downtown Ithaca bound TCAT Route 30 bus was seen at East Ave & Campus Rd on the Cornell University campus."
+      },
+      {
+        "filename": "ITH-TCAT_51-TCAT_unk-201909202317.jpg",
+        "notes": "A Downtown Ithaca bound TCAT Route 51 bus was seen at East Ave & Campus Rd on the Cornell University campus."
+      }
+    ]
+  }
+}

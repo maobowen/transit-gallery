@@ -1,0 +1,32 @@
+{
+  "id": "YVR",
+  "name": "Metro Vancouver, British Columbia, Canada",
+  "thumbnail": "https://media.gettyimages.com/photos/burrard-bridge-vancouver-british-columbia-canada-picture-id629829924?k=6&m=629829924&s=612x612&w=0&h=g5KEUKd1aVwGVzZTs5PIm2HN6g876Qm9vHBBp42IXSM=",
+  "timezone": "America/Vancouver",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "TL",
+        "name": "TransLink"
+      }
+    ],
+    "records": [
+      {
+        "filename": "YVR-TL_620-TL_unk-202002201707.jpg",
+        "notes": "Interior of a Tsawwassen bound TransLink 620 articulated bus."
+      },
+      {
+        "filename": "YVR-TL_7-TL_2133-201908272256.jpg",
+        "notes": "A Nanaimo bound TransLink Route 7 trolleybus was seen at Nanaimo St & E Broadway in Grandview-Woodlands."
+      },
+      {
+        "filename": "YVR-TL_4-TL_2161-201908261846.jpg",
+        "notes": "A Downtown Vancouver bound TransLink Route 4 trolleybus was seen at Blanca St & W 6th Ave near the University of British Columbia campus."
+      },
+      {
+        "filename": "YVR-TL_14-TL_2180-201908261832.jpg",
+        "notes": "A Downtown Vancouver bound TransLink Route 14 trolleybus was seen at University Blvd & Wesbrook Mall on the University of British Columbia campus."
+      }
+    ]
+  }
+}

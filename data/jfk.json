@@ -1,0 +1,20 @@
+{
+  "id": "JFK",
+  "name": "New York metropolitan area, New York, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/the-city-of-dreams-new-york-citys-skyline-at-twilight-picture-id599766748?k=6&m=599766748&s=612x612&w=0&h=lH6tE3v2zfcgelLSuA4IQ85ta2js9NfToMLfXlYerng=",
+  "timezone": "America/New_York",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "MTA",
+        "name": "Metropolitan Transportation Authority"
+      }
+    ],
+    "records": [
+      {
+        "filename": "JFK-MTA_Q10-MTA_6251-202001042054.jpg",
+        "notes": "Interior of a Kew Gardens bound MTA Q10 Limited articulated bus."
+      }
+    ]
+  }
+}

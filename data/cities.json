@@ -1,0 +1,27 @@
+[
+	{
+    "id": "ITH",
+    "name": "Ithaca, New York, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/ithaca-ny-aerial-view-of-lake-cayuga-picture-id128387973?k=6&m=128387973&s=612x612&w=0&h=5mqxjsPGF4xhY99SNxXJIJ2uuwgXH9a1f9PTBSTbC9c="
+  },
+  {
+    "id": "JFK",
+    "name": "New York metropolitan area, New York, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/the-city-of-dreams-new-york-citys-skyline-at-twilight-picture-id599766748?k=6&m=599766748&s=612x612&w=0&h=lH6tE3v2zfcgelLSuA4IQ85ta2js9NfToMLfXlYerng="
+  },
+  {
+    "id": "SEA",
+    "name": "Puget Sound region, Washington, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/sunset-seattle-picture-id615989790?k=6&m=615989790&s=612x612&w=0&h=bdZjzfWy0B1XceGlJHOvKs3tlvRqF4hf4pAcv476gRI="
+  },
+  {
+    "id": "YVR",
+    "name": "Metro Vancouver, British Columbia, Canada",
+    "thumbnail": "https://media.gettyimages.com/photos/burrard-bridge-vancouver-british-columbia-canada-picture-id629829924?k=6&m=629829924&s=612x612&w=0&h=g5KEUKd1aVwGVzZTs5PIm2HN6g876Qm9vHBBp42IXSM="
+  },
+  {
+    "id": "YYJ",
+    "name": "Greater Victoria, British Columbia, Canada",
+    "thumbnail": "https://media.gettyimages.com/photos/nightshot-of-the-inner-harbor-and-the-parliament-building-picture-id547484772?k=6&m=547484772&s=612x612&w=0&h=ntpFHcqfKrca3vUawJyJiP2irUeGqDLXin4JBsPxnfk="
+  }
+]

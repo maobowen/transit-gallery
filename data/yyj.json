@@ -1,0 +1,36 @@
+{
+  "id": "YYJ",
+  "name": "Greater Victoria, British Columbia, Canada",
+  "thumbnail": "https://media.gettyimages.com/photos/nightshot-of-the-inner-harbor-and-the-parliament-building-picture-id547484772?k=6&m=547484772&s=612x612&w=0&h=ntpFHcqfKrca3vUawJyJiP2irUeGqDLXin4JBsPxnfk=",
+  "timezone": "America/Vancouver",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "BCT",
+        "name": "Victoria Regional Transit"
+      },
+      {
+        "id": "GL",
+        "name": "Gray Line Sightseeing Victoria"
+      },
+      {
+        "id": "PNWTS",
+        "name": "Pacific Northwest Transportation Services"
+      }
+    ],
+    "records": [
+      {
+        "filename": "YYJ-BCT_unk-BCT_9047-201908252047.jpg",
+        "notes": "Two BC Transit double-deckers were seen laying over at Swartz Bay Terminal in Sidney."
+      },
+      {
+        "filename": "YYJ-GL-GL_902-201908242311.jpg",
+        "notes": "A Gray Line Sightseeing Victoria open top double-decker was seen at Government St & Broughton St in Downtown Victoria."
+      },
+      {
+        "filename": "YYJ-PNWTS-PNWTS_P32-201908242257.jpg",
+        "notes": "A Pacific Northwest Transportation Services double-decker was seen at Belleville St & Government St in Downtown Victoria."
+      }
+    ]
+  }
+}

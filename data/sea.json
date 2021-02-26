@@ -1,0 +1,408 @@
+{
+  "id": "SEA",
+  "name": "Puget Sound region, Washington, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/sunset-seattle-picture-id615989790?k=6&m=615989790&s=612x612&w=0&h=bdZjzfWy0B1XceGlJHOvKs3tlvRqF4hf4pAcv476gRI=",
+  "timezone": "America/Los_Angeles",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "CLT",
+        "name": "Clallam Transit"
+      },
+      {
+        "id": "COT",
+        "name": "Community Transit"
+      },
+      {
+        "id": "EVT",
+        "name": "Everett Transit"
+      },
+      {
+        "id": "KIT",
+        "name": "Kitsap Transit"
+      },
+      {
+        "id": "KCM",
+        "name": "King County Metro"
+      },
+      {
+        "id": "PIT",
+        "name": "Pierce Transit"
+      },
+      {
+        "id": "SOT",
+        "name": "Sound Transit"
+      }
+    ],
+    "records": [
+      {
+        "filename": "SEA-SOT_577-SOT_9715-202102212245.jpg",
+        "notes": "A Downtown Seattle bound Sound Transit Route 577 commuter coach was seen at 4th Ave & Pine St in Downtown Seattle. It would return to Federal Way on the same route."
+      },
+      {
+        "filename": "SEA-KCM_14-KCM_4312-202102200114.jpg",
+        "notes": "A Downtown Seattle bound King County Metro Route 14 trolleybus was seen at Mount Baker Transit Center."
+      },
+      {
+        "filename": "PAE-COT_425-COT_15805-202102192323.jpg",
+        "notes": "An out-of-service Community Transit double-decker was seen at Eastlake Ave NE & NE 40th St in University District, heading Downtown Seattle. It would be assigned as a Lake Stevens bound Route 425 later."
+      },
+      {
+        "filename": "SEA-SOT_594-PIT_10106-202102150022.jpg",
+        "notes": "[SPECIAL] A Lakewood bound Pierce Transit Route 594 bus was seen at 4th Ave S & S Jackson St. Route 594 is a Sound Transit route operated under contract by Pierce Transit using Sound Transit's fleet, so it is very rare to see a Pierce Transit vehicle assigned to this route."
+      },
+      {
+        "filename": "SEA-KCM_24-KCM_8049-202102142337.jpg",
+        "notes": "[SPECIAL] A Magnolia bound King County Metro Route 24 articulated bus was seen at 3rd Ave & Madison St in Downtown Seattle, followed by a Lake City bound King County Metro Route 41 articulated bus, a Northgate bound King County Metro Route 40 articulated bus and a Downtown Seattle bound King County Metro Route 120 articulated bus. Buses were on snow routes and rear tires were chained due to winter storm."
+      },
+      {
+        "filename": "SEA-KCM_49-KCM_6919-202102142256.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound King County Metro Route 49 articulated bus was seen at Pine St & 4th Ave in Downtown Seattle. Rear tires were chained due to winter storm."
+      },
+      {
+        "filename": "SEA-KCM_271-KCM_7365-202102142227.jpg",
+        "notes": "[SPECIAL] A University District bound King County Metro Route 271 bus was seen at 15th Ave NE & NE Campus Pkwy in University District. Rear tires were chained due to winter storm."
+      },
+      {
+        "filename": "SEA-KCM_48-KCM_8063-202102131939.jpg",
+        "notes": "[SPECIAL] An out-of-service King County Metro articulated bus was seen at NE 45th St & University Way NE in University District. This bus finished a Route 48 journey via snow route hours ago."
+      },
+      {
+        "filename": "PAE-COT_130-COT_17809-202102062114.jpg",
+        "notes": "Interior of an Edmonds bound Community Transit Route 130 articulated bus."
+      },
+      {
+        "filename": "PAE-COT_413-COT_17856-202101300021.jpg",
+        "notes": "An out-of-service Community Transit double-decker was seen at Roosevelt Way NE & NE 42nd St in University District, heading Downtown Seattle. It would be assigned as a Swamp Creek bound Route 413 later."
+      },
+      {
+        "filename": "SEA-KCM_40-KCM_8270-202101240056.jpg",
+        "notes": "A Downtown Seattle bound King County Metro Route 40 articulated bus was seen laying over at Northgate Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_49-KCM_6967-202101172334.jpg",
+        "notes": "A University District bound King County Metro Route 49 articulated bus was seen at 15th Ave NE & NE Campus Pkwy in University District."
+      },
+      {
+        "filename": "SEA-KCM_48-KCM_8038-202101172333.jpg",
+        "notes": "A University District bound King County Metro Route 48 articulated bus was seen at 15th Ave NE & NE Campus Pkwy in University District."
+      },
+      {
+        "filename": "SEA-KCM_255-KCM_8157-202101172327.jpg",
+        "notes": "An out-of-service King County Metro articulated bus was seen laying over at NE 41st St & University Way NE in University District. The engine was turned off. It would be assigned as a Kirkland bound Route 255 later."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_91907-202101162318.jpg",
+        "notes": "[SPECIAL] Three Everett bound Sound Transit Route 512 double-deckers were seen laying over at 3rd Ave & Madison St in Downtown Seattle. There were police activities, so Route 512 double-deckers were re-routed from 4th Ave to 3rd Ave and was then blocked."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_91707-202101162314.jpg",
+        "notes": "[SPECIAL] Three Everett bound Sound Transit Route 512 double-deckers were seen laying over at 3rd Ave & Madison St in Downtown Seattle. There were police activities, so Route 512 double-deckers were re-routed from 4th Ave to 3rd Ave and was then blocked."
+      },
+      {
+        "filename": "SEA-KCM_2-KCM_4333-202012312331.jpg",
+        "notes": "A Madrona bound King County Metro Route 2 trolleybus was seen at 3rd Ave & Broad St in Belltown."
+      },
+      {
+        "filename": "PAE-COT_413-COT_17865-202012312308.jpg",
+        "notes": "A Swamp Creek bound Community Transit Route 413 double-decker was seen at Stewart St & 9th Ave in Downtown Seattle."
+      },
+      {
+        "filename": "PAE-COT_410-COT_15805-202012302344.jpg",
+        "notes": "A Mariner bound Community Transit Route 410 double-decker was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "PAE-COT_202-COT_16809-202012302340.jpg",
+        "notes": "A Lynnwood bound Community Transit Route 202 articulated bus was seen at Ash Way Park & Ride, followed by a Sound Transit Route 512 double-decker."
+      },
+      {
+        "filename": "SEA-SOT_586-SOT_41508-202012300010.jpg",
+        "notes": "A Tacoma bound Sound Transit Route 586 bus was seen at 15th Ave NE & NE 43rd St in University District."
+      },
+      {
+        "filename": "PWT-KIT_BI-KIT_759-202012262340.jpg",
+        "notes": "An out-of-service Kitsap Transit bus was seen at Bainbridge Island Ferry Terminal. The engine was turned off."
+      },
+      {
+        "filename": "PWT-KIT_BI-KIT_789-202012262251.jpg",
+        "notes": "A Kitsap Transit BI Ride bus was seen laying over at Bainbridge Island Ferry Terminal."
+      },
+      {
+        "filename": "SEA-SOT_511-SOT_91720-202012242353.jpg",
+        "notes": "An Ash Way bound Sound Transit Route 511 double-decker was seen at 4th Ave S & S Jackson St in Chinatown-International District."
+      },
+      {
+        "filename": "SEA-SOT_554-SOT_9820-202012242327.jpg",
+        "notes": "A Downtown Seattle bound Sound Transit Route 554 articulated bus was seen at Issaquah Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_271-KCM_7352-202012242319.jpg",
+        "notes": "A University District bound King County Metro Route 271 bus was seen laying over at Issaquah Transit Center."
+      },
+      {
+        "filename": "SEA-SOT_554-SOT_9810-202012242316.jpg",
+        "notes": "An Issaquah bound Sound Transit Route 554 articulated bus was seen at Issaquah Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_271-KCM_7380-202012242129.jpg",
+        "notes": "Interior of an Issaquah bound King County Metro Route 271 bus."
+      },
+      {
+        "filename": "SEA-KCM_271-KCM_7380-202012242128.jpg",
+        "notes": "Interior of an Issaquah bound King County Metro Route 271 bus."
+      },
+      {
+        "filename": "SEA-KCM_49-KCM_4554-202012112339.jpg",
+        "notes": "A Downtown Seattle bound King County Metro Route 49 articulated trolleybus was seen at 15th Ave NE & NE Campus Pkwy in University District."
+      },
+      {
+        "filename": "PAE-COT_880-COT_27800-202012112338.jpg",
+        "notes": "A Mukilteo bound Community Transit Route 880 articulated bus was seen at 15th Ave NE & NE Campus Pkwy in University District, followed by a Magnolia bound King County Metro Route 31 bus."
+      },
+      {
+        "filename": "PAE-COT_855-COT_16804-202012112336.jpg",
+        "notes": "A Lynnwood bound Community Transit Route 855 articulated bus was seen at 15th Ave NE & NE Campus Pkwy in University District."
+      },
+      {
+        "filename": "SEA-KCM_106-KCM_unk-202011292216.jpg",
+        "notes": "Interior of a Renton bound King County Metro Route 106 bus. A University of Washington bound Link Line 1 train could be seen from the bus windows."
+      },
+      {
+        "filename": "SEA-SOT_566-SOT_9709-202011272158.jpg",
+        "notes": "Interior of an Auburn bound Sound Transit Route 566 commuter coach."
+      },
+      {
+        "filename": "SEA-SOT_566-SOT_9709-202011272156.jpg",
+        "notes": "An Auburn bound Sound Transit Route 566 commuter coach was seen at Bellevue Transit Center."
+      },
+      {
+        "filename": "SEA-SOT_508-SOT_9554-202011272001.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound Sound Transit Route 508 articulated bus was seen on the I-5 in Shoreline. During July and November 2020, Mountlake Terrace Freeway Station was closed due to the construction of Link light rail Lynnwood extension. Therefore, Sound Transit provided this free shuttle service between Mountlake Terrace and Downtown Seattle."
+      },
+      {
+        "filename": "PAE-COT_116-COT_11106-202011271946.jpg",
+        "notes": "A Silver Firs bound Community Transit Route 116 bus was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "PAE-COT_115-COT_11102-202011271759.jpg",
+        "notes": "A McCollum Park bound Community Transit Route 115 bus was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "PAE-COT_201-COT_17807-202011271757.jpg",
+        "notes": "A Smokey Point bound Community Transit Route 201 articulated bus was seen at Ash Way Park & Ride, followed by a Downtown Seattle bound Sound Transit Route 512 double-decker."
+      },
+      {
+        "filename": "SEA-SOT_508-SOT_unk-202011140030.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound Sound Transit Route 508 double-decker was seen at 5th Ave S & S Jackson St in Chinatown-International District. During July and November 2020, Mountlake Terrace Freeway Station was closed due to the construction of Link light rail Lynnwood extension. Therefore, Sound Transit provided this free shuttle service between Mountlake Terrace and Downtown Seattle."
+      },
+      {
+        "filename": "PAE-COT_113-COT_19100-202011021815.jpg",
+        "notes": "A Mukilteo bound Community Transit Route 113 bus was seen laying over at Lynnwood Transit Center."
+      },
+      {
+        "filename": "PAE-COT_113-COT_19100-202011021813.jpg",
+        "notes": "A Mukilteo bound Community Transit Route 113 bus was seen laying over at Lynnwood Transit Center."
+      },
+      {
+        "filename": "SEA-SOT_545-SOT_9656-202011010156.jpg",
+        "notes": "A Redmond bound Sound Transit Route 545 articulated bus was seen at 4th Ave & Pine St in Downtown Seattle."
+      },
+      {
+        "filename": "PAE-COT_855-COT_16801-202010302330.jpg",
+        "notes": "A Lynnwood bound Community Transit Route 855 articulated bus was seen at E Stevens Way NE & Rainier Vista NE on the University of Washington campus."
+      },
+      {
+        "filename": "PAE-COT_860-COT_19809-202010170051.jpg",
+        "notes": "A McCollum Park Community Transit Route 860 articulated bus was seen at NE 45th St & Brooklyn Ave NE in University District."
+      },
+      {
+        "filename": "PAE-COT_196-COT_15114-20200922322.jpg",
+        "notes": "Interior of an Ash Way bound Community Transit Route 196 bus."
+      },
+      {
+        "filename": "PAE-COT_196-COT_15114-202009262321.jpg",
+        "notes": "Interior of an Ash Way bound Community Transit Route 196 bus."
+      },
+      {
+        "filename": "PAE-COT_116-COT_17813-202009262314.jpg",
+        "notes": "A Silver Firs bound Community Transit Route 116 articulated bus was seen laying over at Edmonds Station."
+      },
+      {
+        "filename": "PAE-COT_116-COT_17813-202009262312.jpg",
+        "notes": "A Silver Firs bound Community Transit Route 116 articulated bus was seen laying over at Edmonds Station."
+      },
+      {
+        "filename": "PAE-COT_196-COT_15114-202009262311.jpg",
+        "notes": "An out-of-service Community Transit articulated bus was seen at Edmonds Station. It would be assigned as a Ash Way bound Route 196 later."
+      },
+      {
+        "filename": "PAE-COT_871-COT_16801-202009260000.jpg",
+        "notes": "An Edmonds bound Community Transit Route 871 articulated bus was seen at W Stevens Way NE & Okanogan Ln NE on the University of Washington campus."
+      },
+      {
+        "filename": "PAE-COT_unk-COT_10806-202009240045.jpg",
+        "notes": "[SPECIAL] A Community Transit double-decker was seen at NE 45th St & 11th Ave NE in University District."
+      },
+      {
+        "filename": "SEA-KCM_70-KCM_2691-202009130048.jpg",
+        "notes": "A Downtown Seattle bound King County Metro Route 70 articulated bus was seen on the University Bridge on a smoky day."
+      },
+      {
+        "filename": "SEA-KCM_255-KCM_unk-202009072101.jpg",
+        "notes": "Interior of a Kirkland bound King County Metro Route 255 articulated bus."
+      },
+      {
+        "filename": "SEA-KCM_44-KCM_4541-202009072058.jpg",
+        "notes": "A University of Washington bound King County Metro Route 44 articulated bus was seen at NE Pacific St & 15th Ave NE in University District."
+      },
+      {
+        "filename": "SEA-KCM_50-KCM_3732-202009062358.jpg",
+        "notes": "An Othello bound King County Metro Route 50 was seen at SW Alaska St & 44th Ave SW in West Seattle."
+      },
+      {
+        "filename": "SEA-KCM_40-KCM_2770-202009050049.jpg",
+        "notes": "A Northgate bound King County Metro Route 40 was seen at NW Leary Way & 11th Ave NW in West Woodland."
+      },
+      {
+        "filename": "SEA-SOT_545-KCM_8194-202008240118.jpg",
+        "notes": "[SPECIAL] A Redmond bound King County Metro Route 545 articulated bus was seen at 4th Ave & Pine St in Downtown Seattle. Route 545 is a Sound Transit route operated under contract by King County Metro using Sound Transit's fleet, so it is very rare to see a King County Metro vehicle assigned to this route."
+      },
+      {
+        "filename": "SEA-KCM_14-KCM_7119-202008232049.jpg",
+        "notes": "Interior of a Mount Baker bound King County Metro Route 14 bus. Due to COVID-19, front area of the bus was blocked by a safety strap and normal passages were only allowed to use the rear doors to board the bus. Fare collection was suspended from March 21 to September 31, 2020."
+      },
+      {
+        "filename": "SEA-KCM_48-KCM_8251-202008232022.jpg",
+        "notes": "Interior of a Mount Baker bound King County Metro Route 48 articulated bus. Due to COVID-19, front area of the bus was blocked by a safety strap and normal passages were only allowed to use the rear doors to board the bus. Fare collection was suspended from March 21 to September 31, 2020."
+      },
+      {
+        "filename": "SEA-KCM_11-KCM_7030-202008222327.jpg",
+        "notes": "A Madison Park bound King County Metro Route 11 was seen at Pike St & 4th Ave in Downtown Seattle."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_91902-202008152325.jpg",
+        "notes": "An Everett bound Sound Transit Route 512 double-decker was seen at Lynnwood Transit Center, followed by a Downtown Seattle bound Sound Transit Route 512 double-decker."
+      },
+      {
+        "filename": "PAE-COT_113-COT_11114-202008152323.jpg",
+        "notes": "A Mukilteo bound Community Transit Route 113 bus was seen laying over at Lynnwood Transit Center."
+      },
+      {
+        "filename": "PAE-COT_130-COT_15109-202008152127.jpg",
+        "notes": "Interior of an Edmonds bound Community Transit Route 130 bus."
+      },
+      {
+        "filename": "PAE-COT_130-COT_15109-202008152115.jpg",
+        "notes": "COVID-19 safety instructions on the window of an Edmonds bound Community Transit Route 130 bus."
+      },
+      {
+        "filename": "PAE-COT_130-COT_15109-202008152110.jpg",
+        "notes": "An Edmonds bound Community Transit Route 130 bus was seen laying over at Lynnwood Transit Center."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_91709-202008152041.jpg",
+        "notes": "An Everett bound Sound Transit Route 512 double-decker was seen at NE 45th St Fwy Station."
+      },
+      {
+        "filename": "SEA-SOT_560W-SOT_9206-202008100019.jpg",
+        "notes": "A Westwood Village bound Sound Transit Route 560W bus was seen at Bellevue Transit Center."
+      },
+      {
+        "filename": "SEA-SOT_550-SOT_9667-202008100017.jpg",
+        "notes": "A Downtown Seattle bound Sound Transit Route 550 articulated bus was seen at Bellevue Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_271-KCM_7346-202008100016.jpg",
+        "notes": "An Issaquah bound King County Metro Route 271 bus was seen at Bellevue Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_241-KCM_4605-202008092349.jpg",
+        "notes": "A Bellevue bound King County Metro Route 241 electric bus was seen at Factoria Blvd SE & SE 40th Ln in Factoria."
+      },
+      {
+        "filename": "SEA-KCM_241-KCM_4605-202008092250.jpg",
+        "notes": "A Eastgate bound King County Metro Route 241 electric bus was seen at Factoria Blvd SE & SE 40th Ln in Factoria."
+      },
+      {
+        "filename": "SEA-KCM_271-KCM_7328-202008092212.jpg",
+        "notes": "An Issaquah bound King County Metro Route 271 bus was seen at Bellevue Transit Center."
+      },
+      {
+        "filename": "SEA-SOT_542-SOT_9667-202008022209.jpg",
+        "notes": "A University District bound Sound Transit Route 542 articulated bus was seen on the SR-520 Bridge."
+      },
+      {
+        "filename": "SEA-KCM_49-KCM_2696-202007191825.jpg",
+        "notes": "A Downtown Seattle bound King County Metro Route 49 articulated bus was seen laying over at 12th Ave NE & NE 47th St in University District."
+      },
+      {
+        "filename": "SEA-KCM_45-KCM_8050-202007181856.jpg",
+        "notes": "A University District bound King County Metro Route 45 articulated bus was seen at University Way NE & NE 45th St in University District."
+      },
+      {
+        "filename": "SEA-KCM_70-KCM_2708-202007040103.jpg",
+        "notes": "A University District bound King County Metro Route 70 articulated bus was seen at NE Campus Pkwy & Brooklyn Ave NE in University District."
+      },
+      {
+        "filename": "SEA-SOT_542-SOT_9622-202006290343.jpg",
+        "notes": "A Jackson Park bound King County Metro Route 65 bus was seen at 15th Ave NE & NE Pacific St in University District, followed by a Redmond bound Sound Transit Route 542 articulated bus."
+      },
+      {
+        "filename": "SEA-KCM_60-KCM_7033-202006220030.jpg",
+        "notes": "An out-of-service King County Metro bus was seen laying over at Broadway E & E Republican St in Capitol Hill. The engine was turned off. It would be assigned as a Westwood Village bound Route 60 later."
+      },
+      {
+        "filename": "SEA-KCM_49-KCM_2648-202004261840.jpg",
+        "notes": "Two Downtown Seattle bound King County Metro Route 49 articulated buses were seen laying over at 12th Ave NE & NE 47th St in University District."
+      },
+      {
+        "filename": "SEA-KCM_70-KCM_6261-202003212126.jpg",
+        "notes": "Interior of a Downtown Seattle bound King County Metro Route 70. Due to COVID-19, front area of the bus was blocked by a safety strap and normal passages were only allowed to use the rear doors to board the bus. Fare collection was suspended from March 21 to September 31, 2020."
+      },
+      {
+        "filename": "CLM-CLT_22-CLT_613-201908232305.jpg",
+        "notes": "A Clallam Transit Route 22 bus was seen at N Lincoln St & E Front St in Downtown Port Angeles."
+      },
+      {
+        "filename": "SEA-KCM_45-KCM_unk-201908182332.jpg",
+        "notes": "Interior of a University District bound King County Metro Route 45 articulated bus."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_91711-201908102339.jpg",
+        "notes": "An Everett bound Sound Transit Route 512 double-decker was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "PAE-COT_115-COT_17100-201908102337.jpg",
+        "notes": "A Community Transit Route 115 bus was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "PAE-EVT_7-EVT_B0703-201908102304.jpg",
+        "notes": "A Mall Station bound Everett Transit Route 7 bus was seen at Hewitt Ave & Hoyt Ave in Downtown Everett."
+      },
+      {
+        "filename": "PAE-EVT_unk-EVT_B0503-201908102209.jpg",
+        "notes": "An Everett Transit bus was seen at Broadway & Pacific Ave in Downtown Everett."
+      },
+      {
+        "filename": "PAE-EVT_29-EVT_B0504-201908102144.jpg",
+        "notes": "A College Station bound Everett Transit Route 29 bus was seen at S Everett Fwy Station."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_91727-201908102105.jpg",
+        "notes": "An Everett bound Sound Transit Route 512 double-decker was seen at NE 45th St Fwy Station."
+      },
+      {
+        "filename": "SEA-KCM_7-KCM_2667-201908040217.jpg",
+        "notes": "A Rainier Valley bound King County Metro Route 7 articulated bus was seen at 4th Ave & Pine St in Downtown Seattle."
+      },
+      {
+        "filename": "SEA-SOT_594-SOT_9205-201907060058.jpg",
+        "notes": "A Downtown Seattle bound Sound Transit Route 594 bus was seen at Olive Way & 5th Ave in Downtown Seattle."
+      },
+      {
+        "filename": "SEA-KCM_70-KCM_4354-201907050217.jpg",
+        "notes": "[SPECIAL] A University District bound King County Metro Route 70 trolleybus was seen at Fairview Ave N & Valley St. It was not usual to assign a single-section trolleybus to Route 70. Before the closure of Fairview Ave N wooden bridge, northbound trolleybuses used battery to run along Fairview Ave N between Aloha St and E Garfield St, as trolley poles needed to be lowered."
+      }
+    ]
+  }
+}

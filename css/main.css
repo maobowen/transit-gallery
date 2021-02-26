@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+  display: flex;
+  flex-direction: column;
+  font: normal 16px sans-serif;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;  /* https://css-tricks.com/couple-takes-sticky-footer/#there-is-flexbox */
+}
+
+#banner-img-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+#banner-img-container img {
+  -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.5)), to(transparent));
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,0.5), transparent);
+  width: 100%;
+}
+
+.gallery-container h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.gallery-container h1 a {
+  color: #58595a;
+}
+
+.gallery-container h1 a:hover {
+  color: #797a7a;
+}
+
+.gallery-container #page-description-container {
+  font-size: 1.125rem;
+  margin: 30px auto;
+}
+
+.gallery-container h2 {
+  padding: 0 40px;
+}
+
+.gallery-container form {
+  padding: 0.5rem 40px 0;
+}
+
+.tz-gallery {
+  padding: 40px;
+}
+
+.tz-gallery .thumbnail {
+  background-color: #fff;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+  margin-bottom: 30px;
+  padding: 0;
+  transition: 0.15s ease-in-out;
+}
+
+.tz-gallery .thumbnail:hover {
+  transform: translateY(-10px) scale(1.02);
+}
+
+.tz-gallery .thumbnail .thumbnail-image {
+  width: 100%;
+}
+
+.tz-gallery .lightbox img {
+  border-radius: 4px 4px 0 0;
+}
+
+.tz-gallery .caption {
+  padding: 26px 30px;
+}
+
+.tz-gallery .caption h3 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.tz-gallery .caption p {
+  color: #7b7d7d;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.tz-gallery .caption p.notes {
+  margin-top: 0.5rem;
+}
+
+.baguetteBox-button {
+  background-color: transparent !important;
+}
+
+footer {
+  background-color: #152836;
+  color: #fff;
+  padding: 15px 0px;
+  text-align: center;
+  width: 100%;
+  flex-shrink: 0;
+}
+
+footer a {
+  color: #fffcd9;
+}
+
+footer a .fab {
+  color: #fff;
+  font-size: 2rem;
+}
+
+footer a:hover, footer a:focus {
+  color: #f1f1f1;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+footer p:last-child {
+  margin-bottom: 0;
+}
