@@ -88,7 +88,7 @@ const HOMEPAGE_CTIY_TEMPLATE = `          <div class="col-sm-6 col-md-4 col-xl-3
             </div>
           </div>`;
 // Image endpoints
-const ORIGINAL_PHOTO_URL_ENDPOINT = 'https://drive-bmao.herokuapp.com/transit-gallery';
+const ORIGINAL_PHOTO_URL_ENDPOINT = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') ? `${window.location.pathname}img` : 'https://drive-bmao.herokuapp.com/transit-gallery';
 const THUMBNAIL_URL_ENDPOINT = `${window.location.pathname}img`;
 // Other constants
 const BOOTSTRAP_DISPLAY_NONE = 'd-none';
