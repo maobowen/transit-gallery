@@ -73,7 +73,7 @@ const TRANSIT_BUS_RECORD_TEMPLATE = `          <div class="transit-bus-thumbnail
                 <h3>{{caption}}</h3>
                 <p>Vehicle: {{vehicle}}</p>
                 <p>Time: {{time}}</p>
-                <p class="notes">{{notes}}</p>
+                <p class="notes text-break">{{notes}}</p>
               </div>
             </div>
           </div>`;
