@@ -1,0 +1,40 @@
+{
+  "id": "IAD",
+  "name": "Washington metropolitan area, District of Columbia, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/sunrise-pennsylvania-avenue-united-states-capitol-building-washington-picture-id1201729726?k=6&m=1201729726&s=612x612&w=0&h=dogoNKEb42OfiQgSKuxL3Z-lJzFclPZ-9CLm3eCD0P8=",
+  "timezone": "America/New_York",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "BB",
+        "name": "Big Bus Tours Washington DC"
+      },
+      {
+        "id": "UMD",
+        "name": "University of Maryland, College Park"
+      },
+      {
+        "id": "WMATA",
+        "name": "Washington Metropolitan Area Transit Authority"
+      }
+    ],
+    "records": [
+      {
+        "filename": "IAD-BB_Red-BB_CO144-202107042101.jpg",
+        "notes": "A Big Bus Tours Washington DC Red Loop open top double-decker was seen at L'Enfant Plaza in SouthWest Waterfront."
+      },
+      {
+        "filename": "IAD-WMATA_43-WMATA_5484-202107042145.jpg",
+        "notes": "A Mount Pleasant bound WMATA Route 43 bus was seen at 9th St NW & G St NW in Penn Quarter."
+      },
+      {
+        "filename": "IAD-UMD_104-UMD_4919-202107071711.jpg",
+        "notes": "A College Park Metro Station bound Shuttle-UM Route 104 bus was seen at Regents Dr & Campus Dr on the University of Maryland, College Park campus."
+      },
+      {
+        "filename": "IAD-WMATA_F6-WMATA_7028-202107071728.jpg",
+        "notes": "A Fort Totten bound WMATA Route F6 bus was seen at Campus Dr & N Library Ln on the University of Maryland, College Park campus."
+      }
+    ]
+  }
+}

@@ -7,7 +7,8 @@ This is a Wiki-like gallery for public transit, available at <https://maobowen.g
 
 | Area / Transport | Transit Bus <sup>2</sup> | Intercity Bus <sup>2</sup> | Tram | Metro / Light Rail / Intracity Rail | Commuter Rail | Intercity Rail | Ferry |
 | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ITH - Ithaca, New York, United States | X | | N/A | N/A | N/A | N/A | |
+| IAD - Washington metropolitan area, District of Columbia, United States | X | | | | | | |
+| ITH - Ithaca, New York, United States | X | | N/A | N/A | N/A | N/A | N/A |
 | JFK - New York metropolitan area, New York, United States | X | | N/A | | | | |
 | SEA - Puget Sound region, Washington, United States | X | | | | | | |
 | YVR - Metro Vancouver, British Columbia, Canada | X | | N/A | | | | |
