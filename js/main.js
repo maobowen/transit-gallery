@@ -224,7 +224,21 @@ const renderPage = (city) => {
       const vehicle = (record.vehicleAgency instanceof Agency ? record.vehicleAgency.name : record.vehicleAgency)
         + ' '
         + (record.vehicleNo == null ? 'unknown' : `#${record.vehicleNo}`);
-      const notes = record.notes.replaceAll(/\[SPECIAL\]/g, '<span class="text-danger">[SPECIAL]</span>');
+      let notes = record.notes.replaceAll(/\[SPECIAL\]/g, '<span class="text-danger">[SPECIAL]</span>');
+      // Parse notes with Markdown parser
+      // Override Markdown links: https://github.com/markedjs/marked/issues/655
+      const renderer = new marked.Renderer();
+      const linkRenderer = renderer.link;
+      renderer.link = (href, title, text) => {
+          const html = linkRenderer.call(renderer, href, title, text);
+          return html.replace(/^<a /, '<a target="_blank" ');
+      };
+      notes = marked(notes, { renderer: renderer });
+      // Remove outermost <p> tag
+      const domParser = new DOMParser();
+      const notesDom = domParser.parseFromString(notes, 'application/xml');
+      notes = notesDom.children[0].innerHTML;
+
       $gallaryContainer.append(TRANSIT_BUS_RECORD_TEMPLATE
         .replaceAll(/{{routeAgency}}/g, routeAgency)
         .replaceAll(/{{thumbnailUrl}}/g, `${THUMBNAIL_URL_ENDPOINT}/transit-buses/thumbnails/${record.filename}`)
