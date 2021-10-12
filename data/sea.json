@@ -30,11 +30,75 @@
         "name": "Pierce Transit"
       },
       {
+        "id": "SKAT",
+        "name": "Skagit Transit"
+      },
+      {
         "id": "SOT",
         "name": "Sound Transit"
       }
     ],
     "records": [
+      {
+        "filename": "SEA-KCM_20-KCM_6846-202110030458.jpg",
+        "notes": "A Lake City bound King County Metro Route 20 articulated bus was seen at NE 45th St & University Way NE in the University District."
+      },
+      {
+        "filename": "PAE-COT_871-COT_17803-202110020051.jpg",
+        "notes": "An Edmonds bound Community Transit Route 871 articulated bus was seen at NE 45th St & 7th Ave NE in the University District. It is the last day that Community Transit 800-series commuter routes served the University of Washington prior to the [fall 2021 service change](https://www.communitytransit.org/alert/a45eb47e-2394-4e42-9ccc-dc9bb373a6a8)."
+      },
+      {
+        "filename": "PAE-COT_821-COT_27805-202110012337.jpg",
+        "notes": "An out-of-service Community Transit articulated bus was seen at NE 45th St & 7th Ave NE in the University District. It would be assigned as a Marysville bound Community Transit Route 821 later. It is the last day that Community Transit 800-series commuter routes served the University of Washington prior to the [fall 2021 service change](https://www.communitytransit.org/alert/a45eb47e-2394-4e42-9ccc-dc9bb373a6a8)."
+      },
+      {
+        "filename": "PAE-COT_860-COT_16805-202110012335.jpg",
+        "notes": "An out-of-service Community Transit articulated bus was seen at NE 45th St & 7th Ave NE in the University District. It would be assigned as a McCollum Park bound Community Transit Route 860 later. It is the last day that Community Transit 800-series commuter routes served the University of Washington prior to the [fall 2021 service change](https://www.communitytransit.org/alert/a45eb47e-2394-4e42-9ccc-dc9bb373a6a8)."
+      },
+      {
+        "filename": "SEA-SOT_535-SOT_91703-202109182118.jpg",
+        "notes": "A Bellevue bound Sound Transit Route 535 double-decker was seen at Lynnwood Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_240-KCM_7425-202109112302.jpg",
+        "notes": "A Bellevue bound King County Metro Route 240 bus was seen at Renton Transit Center."
+      },
+      {
+        "filename": "SEA-KCM_70-KCM_4500-202109052312.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound King County Metro Route 70 articulated trolleybus, wrapped with Black Lives Matter arts, was seen at 3rd Ave & Pine St in Downtown Seattle. See [Metro Matters news](https://kingcountymetro.blog/2021/03/25/metro-unveils-black-lives-matter-buses-and-employee-art/)."
+      },
+      {
+        "filename": "PAE-COT_280-COT_19105-202109052156.jpg",
+        "notes": "A Granite Falls bound Community Transit Route 280 bus was seen at Everett Station."
+      },
+      {
+        "filename": "PAE-EVT_4-EVT_B0500-202109052155.jpg",
+        "notes": "A College Station bound Everett Transit Route 4 bus was seen at Everett Station."
+      },
+      {
+        "filename": "MVW-SKAT_90X-SKAT_2001-202109052154.jpg",
+        "notes": "A Mount Vernon bound Skagit Transit Route 90X bus was seen at Everett Station, followed by a Smokey Point bound Community Transit Route 202 articulated bus."
+      },
+      {
+        "filename": "PAE-EVT-8_EVT_B0505-202109052153.jpg",
+        "notes": "An out-of-service Everett Transit bus was seen at Everett Station. It would be assigned as an Airport bound Everett Transit Route 8 later."
+      },
+      {
+        "filename": "MVW-SKAT_90X-SKAT_2001-202109052152.jpg",
+        "notes": "A Mount Vernon bound Skagit Transit Route 90X bus was seen at Everett Station."
+      },
+      {
+        "filename": "PAE-COT_271-COT_11119-202109052250.jpg",
+        "notes": "An out-of-service Community Transit bus was seen laying over at Everett Station. It would be assigned as an Gold Bar bound Community Transit Route 271 later."
+      },
+      {
+        "filename": "SEA-SOT_594-SOT_9101-202109041817.jpg",
+        "notes": "A Lakewood bound Sound Transit Route 594 bus was seen at Stewart St & 9th Ave in Downtown Seattle."
+      },
+      {
+        "filename": "SEA-SOT_512-SOT_9555-202109041811.jpg",
+        "notes": "A Downtown Seattle bound Sound Transit Route 512 articulated bus was seen at Stewart St & 9th Ave in Downtown Seattle. It was not usual to see a single-decker bus assigned to this route."
+      },
       {
         "filename": "SEA-KCM_271-KCM_8182-202108282145.jpg",
         "notes": "[SPECIAL] A University District bound King County Metro Route 271 articulated bus was seen at NE Campus Pkwy & University Way NE in the University District. Since Montlake Bridge was closed for construction during August 9 and September 5, 2021, transit service crossing the bridge was rerouted. See [Metro Matters news](https://kingcountymetro.blog/2021/08/03/rider-alert-get-ready-for-month-long-montlake-bridge-closure/) and [service advisories](https://kingcounty.gov/~/media/depts/metro/data/service-advisories/pdf/21-271-00-rts271-st542-montlake-bridge-clsr-aug19-sep5.pdf)."
@@ -205,7 +269,7 @@
       },
       {
         "filename": "PAE-COT_860-COT_27804-202106160040.jpg",
-        "notes": "A McCollum Park Community Transit Route 860 articulated bus was seen at E Stevens Way NE & Pend Oreille Rd NE on the University of Washington campus."
+        "notes": "A McCollum Park bound Community Transit Route 860 articulated bus was seen at E Stevens Way NE & Pend Oreille Rd NE on the University of Washington campus."
       },
       {
         "filename": "PAE-COT_880-COT_11100-202106160038.jpg",
