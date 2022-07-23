@@ -21,4 +21,4 @@ Notes:
 
 ---
 
-© 2021 [101对双生儿](https://bmao.tech/). The code is open-source under GNU General Public License. All photos are copyright-protected and cannot be re-used under any circumstances without permissions.
+© 2022 [101对双生儿](https://bmao.tech/). The code is open-source under GNU General Public License. All photos are copyright-protected and cannot be re-used under any circumstances without permissions.

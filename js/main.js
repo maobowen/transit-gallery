@@ -6,10 +6,12 @@ class Agency {
    * Create a transit agency object.
    * @param {string} id ID of the agency.
    * @param {string} name Name of the agency.
+   * @param {string | null} shortName Short name of the agency.
    */
-  constructor(id, name) {
+  constructor(id, name, shortName) {
     this.id = id;
     this.name = name;
+    this.shortName = shortName;
   }
 }
 
@@ -67,12 +69,12 @@ class City {
 const TRANSIT_BUS_RECORD_TEMPLATE = `          <div class="transit-bus-thumbnail-container col-sm-6 col-md-4 col-xl-3" data-agency="{{routeAgency}}">
             <div class="thumbnail">
               <a class="lightbox" href="{{originalPhotoUrl}}">
-                <img class="thumbnail-image" src="{{thumbnailUrl}}" alt="Thumbnail of {{caption}}" />
+                <img class="thumbnail-image" src="{{thumbnailUrl}}" alt="Thumbnail of {{captionText}}" />
               </a>
               <div class="caption">
                 <h3>{{caption}}</h3>
-                <p>Vehicle: {{vehicle}}</p>
-                <p>Time: {{time}}</p>
+                <p>{{vehicle}}</p>
+                <p>{{time}}</p>
                 <p class="notes text-break">{{notes}}</p>
               </div>
             </div>
@@ -217,13 +219,29 @@ const renderPage = (city) => {
     const $gallaryContainer = $('#transit-bus-gallery-row');
     $gallaryContainer.empty();
     const routeAgencies = new Set();
+    const routeAgencyShortNamesMap = new Map();
     transitBus.records.forEach((record) => {
       const routeAgency = record.routeAgency instanceof Agency ? record.routeAgency.name : record.routeAgency;
       routeAgencies.add(routeAgency);
-      const caption = routeAgency + ' ' + (record.routeNo == null ? '' : record.routeNo);
-      const vehicle = (record.vehicleAgency instanceof Agency ? record.vehicleAgency.name : record.vehicleAgency)
+      let routeAgencyShortName = routeAgency;
+      if (record.routeAgency instanceof Agency && record.routeAgency.shortName != null) {
+        routeAgencyShortName = record.routeAgency.shortName;
+        routeAgencyShortNamesMap.set(routeAgency, routeAgencyShortName);
+      }
+      const captionText = routeAgencyShortName + ' ' + (record.routeNo == null ? '' : record.routeNo);
+      const caption = routeAgencyShortName !== routeAgency
+          ? `<span class="hover-tooltip" data-toggle="tooltip" title="${routeAgency}">${routeAgencyShortName}</span> `
+              + (record.routeNo == null ? '' : record.routeNo)
+          : captionText;
+      const vehicleAgency = record.vehicleAgency instanceof Agency ? record.vehicleAgency.name : record.vehicleAgency;
+      const vehicleAgencyShortName = record.vehicleAgency instanceof Agency && record.vehicleAgency.shortName != null
+          ? record.vehicleAgency.shortName
+          : vehicleAgency;
+      const vehicle = (vehicleAgencyShortName !== vehicleAgency
+          ? `<span class="hover-tooltip" data-toggle="tooltip" title="${vehicleAgency}">${vehicleAgencyShortName}</span>`
+          : vehicleAgency)
         + ' '
-        + (record.vehicleNo == null ? 'unknown' : `#${record.vehicleNo}`);
+        + (record.vehicleNo == null ? 'vehicle' : `#${record.vehicleNo}`);
       let notes = record.notes.replaceAll(/\[SPECIAL\]/g, '<span class="text-danger">[SPECIAL]</span>');
       // Parse notes with Markdown parser
       // Override Markdown links: https://github.com/markedjs/marked/issues/655
@@ -233,7 +251,7 @@ const renderPage = (city) => {
           const html = linkRenderer.call(renderer, href, title, text);
           return html.replace(/^<a /, '<a target="_blank" ');
       };
-      notes = marked(notes, { renderer: renderer });
+      notes = marked.parse(notes, { renderer: renderer });
       // Remove outermost <p> tag
       const domParser = new DOMParser();
       const notesDom = domParser.parseFromString(notes, 'application/xml');
@@ -243,12 +261,18 @@ const renderPage = (city) => {
         .replaceAll(/{{routeAgency}}/g, routeAgency)
         .replaceAll(/{{thumbnailUrl}}/g, `${THUMBNAIL_URL_ENDPOINT}/transit-buses/thumbnails/${record.filename}`)
         .replaceAll(/{{originalPhotoUrl}}/g, `${ORIGINAL_PHOTO_URL_ENDPOINT}/transit-buses/processed/${record.filename}`)
+        .replaceAll(/{{captionText}}/g, captionText)
         .replaceAll(/{{caption}}/g, caption)
         .replaceAll(/{{vehicle}}/g, vehicle)
         .replaceAll(/{{time}}/g, record.utcTime.toLocaleString('en-US', {
+          day: 'numeric',
+          hour: '2-digit',
           hour12: false,
+          minute: '2-digit',
+          month: 'numeric',
           timeZone: city.timezone,
-          timeZoneName: 'short'
+          timeZoneName: 'short',
+          year: 'numeric'
         }))
         .replaceAll(/{{notes}}/g, notes)
       );
@@ -261,7 +285,11 @@ const renderPage = (city) => {
     if (routeAgencies.size > 1) {
       $agencySelect.append('<option value="all" selected="selected">All</option>');
       Array.from(routeAgencies).sort().forEach((routeAgency) => {
-        $agencySelect.append(`<option value="${routeAgency}">${routeAgency}</option>`);
+        let routeAgencyDisplayName = routeAgency;
+        if (routeAgencyShortNamesMap.get(routeAgency)) {
+          routeAgencyDisplayName += ` (${routeAgencyShortNamesMap.get(routeAgency)})`;
+        }
+        $agencySelect.append(`<option value="${routeAgency}">${routeAgencyDisplayName}</option>`);
       });
       $agencyForm.removeClass(BOOTSTRAP_DISPLAY_NONE);
     } else {
@@ -332,4 +360,5 @@ $(document).ready(async () => {
   }
   $('#page-description-spinner').addClass(BOOTSTRAP_DISPLAY_NONE);
   $('#page-description').removeClass(BOOTSTRAP_DISPLAY_NONE);
+  $('[data-toggle="tooltip"]').tooltip();
 });
