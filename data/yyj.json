@@ -7,7 +7,8 @@
     "agencies": [
       {
         "id": "BCT",
-        "name": "Victoria Regional Transit"
+        "name": "Victoria Regional Transit",
+        "shortName": "BC Transit Victoria"
       },
       {
         "id": "GL",

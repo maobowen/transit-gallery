@@ -1,0 +1,35 @@
+{
+    "id": "SBA",
+    "name": "Santa Barbara, California, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/santa-barbara-view-picture-id1132780184?k=20&m=1132780184&s=612x612&w=0&h=GVNvul0X-3EOz6ZIr2FdV6rrDi7kl6anP51NlDIKv9U=",
+    "timezone": "America/Los_Angeles",
+    "transitBus": {
+      "agencies": [
+        {
+          "id": "MTD",
+          "name": "Santa Barbara Metropolitan Transit District",
+          "shortName": "Santa Barbara MTD"
+        },
+        {
+          "id": "SYVT",
+          "name": "Santa Ynez Valley Transit",
+          "shortName": "SYVT"
+        }
+      ],
+      "records": [
+        {
+          "filename": "SBA-MTD_2-MTD_449-202207011755.jpg",
+          "notes": "A Downtown Santa Barbara bound Santa Barbara MTD Route 6 bus was seen at E Anapamu St & Santa Barbara St in Downtown Santa Barbara."
+        },
+        {
+          "filename": "SBA-MTD_6-MTD_629-202207011741.jpg",
+          "notes": "A Downtown Santa Barbara bound Santa Barbara MTD Route 6 bus was seen at Anacapa St & E Anapamu St in Downtown Santa Barbara."
+        },
+        {
+          "filename": "SQA-SYVT_EXP-SYVT_978-202206302206.jpg",
+          "notes": "A Buellton bound SYVT Express Route van was seen at Mission Dr & 4th Pl in Downtown Solvang."
+        }
+      ]
+    }
+  }
+  

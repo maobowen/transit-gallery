@@ -1,0 +1,33 @@
+{
+  "id": "SBP",
+  "name": "San Luis Obispo, California, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/vineyard-near-san-luis-obispo-picture-id915878768?k=20&m=915878768&s=612x612&w=0&h=f9cuiPA_UlUwvb0RlfJp6FtA6KO8BjQsiOgm4Z22P0I=",
+  "timezone": "America/Los_Angeles",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "RTA",
+        "name": "San Luis Obispo Regional Transit Authority",
+        "shortName": "RTA"
+      },
+      {
+        "id": "SLO",
+        "name": "SLO Transit"
+      }
+    ],
+    "records": [
+      {
+        "filename": "SBP-RTA_10S-RTA_1504-202206301714.jpg",
+        "notes": "A Santa Maria bound RTA Route 10S bus was seen at N Thompson Ave & U.S. Route 101 in Nipomo."
+      },
+      {
+        "filename": "SBP-SLO_1A-SLO_1769-202206300046.jpg",
+        "notes": "A Downtown San Luis Obispo bound SLO Transit Route 1A bus was seen at Broad St & Tank Farm Rd in San Luis Obispo."
+      },
+      {
+        "filename": "SBP-RTA_unk-RTA_1912-202206292320.jpg",
+        "notes": "An out-of-service RTA bus was seen at Santa Rosa St & Olive St in San Luis Obispo."
+      }
+    ]
+  }
+}

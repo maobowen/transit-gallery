@@ -1,0 +1,99 @@
+{
+  "id": "LAX",
+  "name": "Greater Los Angeles, California, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/trees-against-cityscape-during-sunset-picture-id956921106?k=20&m=956921106&s=612x612&w=0&h=wB3hdHTgWrIJTV3rulRxtsnCUiV77Sy8dY868Ur1eP4=",
+  "timezone": "America/Los_Angeles",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "BBB",
+        "name": "Big Blue Bus"
+      },
+      {
+        "id": "CCB",
+        "name": "Culver CityBus"
+      },
+      {
+        "id": "CS",
+        "name": "City Sightseeing Los Angeles"
+      },
+      {
+        "id": "GCTD",
+        "name": "Gold Coast Transit District",
+        "shortName": "Gold Coast Transit"
+      },
+      {
+        "id": "LADOT",
+        "name": "City of Los Angeles Department of Transportation",
+        "shortName": "LADOT"
+      },
+      {
+        "id": "MTA",
+        "name": "Los Angeles County Metropolitan Transportation Authority ",
+        "shortName": "LA Metro"
+      }
+    ],
+    "records": [
+      {
+        "filename": "LAX-CCB_1-CCB_7127-202207030159.jpg",
+        "notes": "A Culver City bound Culver CityBus Route 1 bus was seen at Windward Ave & Main St in Venice."
+      },
+      {
+        "filename": "LAX-BBB_R12-BBB_1721-202207030001.jpg",
+        "notes": "A University of California, Los Angeles bound Big Blue Bus Rapid 12 bus was seen at Overland Ave & Venice Blvd in Palms."
+      },
+      {
+        "filename": "LAX-MTA_720-MTA_8795-202207022220.jpg",
+        "notes": "[SPECIAL] A Downtown Los Angeles bound LA Metro Route 720 articulated bus was seen at Wilshire Blvd & S Ogden Dr in Mid-Wilshire. The bus was a LA Metro's normal vehicle, not a Metro Rapid one."
+      },
+      {
+        "filename": "LAX-MTA_18-MTA_6074-202207022133.jpg",
+        "notes": "A Koreatown bound LA Metro Route 18 bus was seen at W 5th St & S Broadway in Downtown Los Angeles."
+      },
+      {
+        "filename": "LAX-MTA_53-MTA_1877-202207022013.jpg",
+        "notes": "A Downtown Los Angeles bound LA Metro Route 53 bus was seen at W 5th St & S Spring St in Downtown Los Angeles."
+      },
+      {
+        "filename": "LAX-MTA_18-MTA_6020-202207022013.jpg",
+        "notes": "A Koreatown bound LA Metro Route 18 bus was seen at W 5th St & S Spring St in Downtown Los Angeles, followed by a Downtown Los Angeles bound LA Metro Route 53 bus."
+      },
+      {
+        "filename": "LAX-MTA_30-MTA_8347-202207022013.jpg",
+        "notes": "A Mid City bound LA Metro Route 30 bus, a Koreatown bound LA Metro Route 18 bus and a Downtown Los Angeles bound LA Metro Route 53 bus were seen at S Spring St & W 5th St in Downtown Los Angeles."
+      },
+      {
+        "filename": "LAX-MTA_720-MTA_8742-202207021957.jpg",
+        "notes": "A Santa Monica bound LA Metro Route 720 articulated bus was seen at W 5th St & S Spring St in Downtown Los Angeles."
+      },
+      {
+        "filename": "LAX-LADOT_D-LADOT_20305-202207021956.jpg",
+        "notes": "A South Park bound LADOT DASH Downtown Route D bus was seen at S Spring St & W 5th St in Downtown Los Angeles."
+      },
+      {
+        "filename": "LAX-LADOT_4577-LADOT_15371-202207020321.jpg",
+        "notes": "A Griffith Observatory bound LADOT DASH Observatory/Los Feliz bus was seen outside of Griffith Observatory."
+      },
+      {
+        "filename": "LAX-LADOT_564-LADOT_15346-202207020241.jpg",
+        "notes": "A clockwise loop LADOT DASH Hollywood bus was seen at Franklin Ave & N Vermont Ave in Los Feliz."
+      },
+      {
+        "filename": "LAX-CS-CS_unk-202207020100.jpg",
+        "notes": "A City Sightseeing Los Angeles open top double-decker was seen at Hollywood Blvd & N Highland Ave in Hollywood."
+      },
+      {
+        "filename": "LAX-MTA_217-MTA_5903-202207020051.jpg",
+        "notes": "A Baldwin Hills bound LA Metro Route 217 bus was seen at Hollywood Blvd & N Cherokee Ave in Hollywood."
+      },
+      {
+        "filename": "LAX-MTA_534-MTA_4011-202207012031.jpg",
+        "notes": "A Malibu bound LA Metro Route 534 bus was seen near Pacific Coast Hwy & S Topanga Canyon Blvd in Pacific Palisades."
+      },
+      {
+        "filename": "OXR-GCTD_6-GCTD_4063-202207011850.jpg",
+        "notes": "An Oxnard bound Gold Coast Transit Route 6 bus was seen at N Ventura Ave & W Center St in Downtown Ventura."
+      }
+    ]
+  }
+}

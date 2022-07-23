@@ -7,17 +7,19 @@
     "agencies": [
       {
         "id": "CTRAN",
-        "name": "Chemung County Transit"
+        "name": "Chemung County Transit",
+        "shortName": "C TRAN"
       },
       {
         "id": "TCAT",
-        "name": "Tompkins Consolidated Area Transit"
+        "name": "Tompkins Consolidated Area Transit",
+        "shortName": "TCAT"
       }
     ],
     "records": [
       {
         "filename": "ELM-CTRAN_30-CTRAN_1451-201912242143.jpg",
-        "notes": "An Elmira bound Chemung County Transit Route 30 bus was seen at E Seneca St & N Tioga St in Downtown Ithaca."
+        "notes": "An Elmira bound C TRAN Route 30 bus was seen at E Seneca St & N Tioga St in Downtown Ithaca."
       },
       {
         "filename": "ITH-TCAT_53-TCAT_1903-201911112259.jpg",

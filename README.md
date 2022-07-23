@@ -10,7 +10,11 @@ This is a Wiki-like gallery for public transit, available at <https://maobowen.g
 | IAD - Washington metropolitan area, District of Columbia, United States | X | | | | | | |
 | ITH - Ithaca, New York, United States | X | | N/A | N/A | N/A | N/A | N/A |
 | JFK - New York metropolitan area, New York, United States | X | | N/A | | | | |
+| LAX - Greater Los Angeles, California, United States | X | | N/A | | | | |
+| SBA - Santa Barbara, California, United States | X | | N/A | N/A | N/A | | N/A |
+| SBP - San Luis Obispo, California, United States | X | | N/A | N/A | N/A | | N/A |
 | SEA - Puget Sound region, Washington, United States | X | | | | | | |
+| SFO - San Francisco Bay Area, California, United States | X | | | | | | |
 | YVR - Metro Vancouver, British Columbia, Canada | X | | N/A | | | | |
 | YYJ - Greater Victoria, British Columbia, Canada | X | | N/A | | | | |
 

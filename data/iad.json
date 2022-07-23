@@ -11,11 +11,13 @@
       },
       {
         "id": "UMD",
-        "name": "University of Maryland, College Park"
+        "name": "University of Maryland Department of Transportation Services",
+        "shortName": "UMD DOTS"
       },
       {
         "id": "WMATA",
-        "name": "Washington Metropolitan Area Transit Authority"
+        "name": "Washington Metropolitan Area Transit Authority",
+        "shortName": "WMATA"
       }
     ],
     "records": [

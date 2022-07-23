@@ -1,7 +1,7 @@
 {
   "id": "SEA",
   "name": "Puget Sound region, Washington, United States",
-  "thumbnail": "https://media.gettyimages.com/photos/sunset-seattle-picture-id615989790?k=6&m=615989790&s=612x612&w=0&h=bdZjzfWy0B1XceGlJHOvKs3tlvRqF4hf4pAcv476gRI=",
+  "thumbnail": "https://media.gettyimages.com/photos/seattle-skyline-picture-id520460172?k=20&m=520460172&s=612x612&w=0&h=2jezA3Qs8UOAWdicTDDUJSsg2zjbp9d2Vq4QZL2YMo4=",
   "timezone": "America/Los_Angeles",
   "transitBus": {
     "agencies": [
@@ -12,6 +12,10 @@
       {
         "id": "COT",
         "name": "Community Transit"
+      },
+      {
+        "id": "CS",
+        "name": "City Sightseeing Seattle"
       },
       {
         "id": "EVT",
@@ -40,6 +44,54 @@
     ],
     "records": [
       {
+        "filename": "SEA-KCM_49-KCM_4501-202205291909.jpg",
+        "notes": "A Downtown Seattle bound King County Metro Route 49 articulated trolleybus with trolley poles lowered was seen at U District Station."
+      },
+      {
+        "filename": "PAE-COT_880-COT_16809-202205280121.jpg",
+        "notes": "A Mukilteo bound Community Transit Route 880 bus was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "SEA-SOT_511-COT_15815-202205280121.jpg",
+        "notes": "[SPECIAL] An out-of-service Community Transit double-decker was seen at Ash Way Park & Ride. This bus just finished an Ash Way bound Sound Transit Route 511 journey. This is a Sound Transit route operated under contract by Community Transit using Sound Transit's fleet, so it is very rare to see a Community Transit vehicle assigned to this route."
+      },
+      {
+        "filename": "SEA-SOT_513-SOT_91723-202205280119.jpg",
+        "notes": "A Seaway bound Sound Transit Route 513 double-decker was seen at Ash Way Park & Ride."
+      },
+      {
+        "filename": "SEA-CS-CS_unk-202205212247.jpg",
+        "notes": "A City Sightseeing Seattle open top double-decker was seen at 5th Ave S & S Main St in Chinatown-International District. "
+      },
+      {
+        "filename": "PWT-KIT_96-KIT_788-202203282322.jpg",
+        "notes": "Several Kitsap Transit buses were seen laying over at Bainbridge Island Ferry Terminal, including a Sunrise bound Route 96 bus and a Bill Point bound Route 99 bus."
+      },
+      {
+        "filename": "PWT-KIT_97-KIT_754-202203282321.jpg",
+        "notes": "A Crystal Springs bound Kitsap Transit Route 97 bus and a Fort Ward bound Kitsap Transit Route 98 bus were seen laying over at Bainbridge Island Ferry Terminal."
+      },
+      {
+        "filename": "PWT-KIT_97-KIT_754-202203282320.jpg",
+        "notes": "A Crystal Springs bound Kitsap Transit Route 97 bus was seen laying over at Bainbridge Island Ferry Terminal."
+      },
+      {
+        "filename": "PWT-KIT_98-KIT_3509-202203282320.jpg",
+        "notes": "Several Kitsap Transit buses were seen laying over at Bainbridge Island Ferry Terminal, including a Fort Ward bound Route 98 bus, a Sunrise bound Route 96 bus and a Poulsbo bound Route 390 coach."
+      },
+      {
+        "filename": "PWT-KIT_97-KIT_754-202203282319.jpg",
+        "notes": "Several Kitsap Transit buses were seen laying over at Bainbridge Island Ferry Terminal, including a Bill Point bound Route 99 bus, a Sunrise bound Route 96 bus, a Battle Point bound Route 95 bus, a Crystal Springs bound Route 97 bus and a Poulsbo bound Route 390 coach."
+      },
+      {
+        "filename": "SEA-KCM_44-KCM_4551-202203082357.jpg",
+        "notes": "A University of Washington bound King County Metro Route 44 articulated trolleybus was seen at 15th Ave NE & NE 43rd St in the University District. The operator was reconnecting the trolley poles to the overhead wires."
+      },
+      {
+        "filename": "SEA-SOT_511-SOT_91907-202201312358.jpg",
+        "notes": "An Ash Way bound Sound Transit Route 511 double-decker was seen at Northgate Station."
+      },
+      {
         "filename": "SEA-KCM_B-KCM_8169-202111272346.jpg",
         "notes": "[SPECIAL] An out-of-service King County Metro articulated bus was seen laying over at Bellevue Transit Center. It would be assigned as a Redmond bound King County Metro RapidRide B Line later. The bus was a King County Metro's normal vehicle, not a RapidRide one."
       },
@@ -49,7 +101,7 @@
       },
       {
         "filename": "SEA-KCM_20-KCM_6846-202110030458.jpg",
-        "notes": "A Lake City bound King County Metro Route 20 articulated bus was seen at NE 45th St & University Way NE in the University District."
+        "notes": "A Lake City bound King County Metro Route 20 articulated bus was seen at U District Station."
       },
       {
         "filename": "PAE-COT_871-COT_17803-202110020051.jpg",
@@ -88,7 +140,7 @@
         "notes": "A Mount Vernon bound Skagit Transit Route 90X bus was seen at Everett Station, followed by a Smokey Point bound Community Transit Route 202 articulated bus."
       },
       {
-        "filename": "PAE-EVT-8_EVT_B0505-202109052153.jpg",
+        "filename": "PAE-EVT_8-EVT_B0505-202109052153.jpg",
         "notes": "An out-of-service Everett Transit bus was seen at Everett Station. It would be assigned as an Airport bound Everett Transit Route 8 later."
       },
       {
@@ -425,7 +477,7 @@
       },
       {
         "filename": "SEA-SOT_594-PIT_10106-202102150022.jpg",
-        "notes": "[SPECIAL] A Lakewood bound Pierce Transit Route 594 bus was seen at 4th Ave S & S Jackson St in Chinatown-International District. Route 594 is a Sound Transit route operated under contract by Pierce Transit using Sound Transit's fleet, so it is very rare to see a Pierce Transit vehicle assigned to this route."
+        "notes": "[SPECIAL] A Lakewood bound Pierce Transit Route 594 bus was seen at 4th Ave S & S Jackson St in Chinatown-International District. This is a Sound Transit route operated under contract by Pierce Transit using Sound Transit's fleet, so it is very rare to see a Pierce Transit vehicle assigned to this route."
       },
       {
         "filename": "SEA-KCM_24-KCM_8049-202102142337.jpg",
@@ -641,7 +693,7 @@
       },
       {
         "filename": "SEA-SOT_545-KCM_8194-202008240118.jpg",
-        "notes": "[SPECIAL] A Redmond bound King County Metro Route 545 articulated bus was seen at 4th Ave & Pine St in Downtown Seattle. Route 545 is a Sound Transit route operated under contract by King County Metro using Sound Transit's fleet, so it is very rare to see a King County Metro vehicle assigned to this route."
+        "notes": "[SPECIAL] A Redmond bound King County Metro Route 545 articulated bus was seen at 4th Ave & Pine St in Downtown Seattle. This is a Sound Transit route operated under contract by King County Metro using Sound Transit's fleet, so it is very rare to see a King County Metro vehicle assigned to this route."
       },
       {
         "filename": "SEA-KCM_14-KCM_7119-202008232049.jpg",

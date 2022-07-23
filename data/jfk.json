@@ -7,7 +7,8 @@
     "agencies": [
       {
         "id": "MTA",
-        "name": "Metropolitan Transportation Authority"
+        "name": "Metropolitan Transportation Authority",
+        "shortName": "MTA"
       }
     ],
     "records": [

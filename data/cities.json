@@ -15,14 +15,34 @@
     "thumbnail": "https://media.gettyimages.com/photos/the-city-of-dreams-new-york-citys-skyline-at-twilight-picture-id599766748?k=6&m=599766748&s=612x612&w=0&h=lH6tE3v2zfcgelLSuA4IQ85ta2js9NfToMLfXlYerng="
   },
   {
+    "id": "LAX",
+    "name": "Greater Los Angeles, California, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/trees-against-cityscape-during-sunset-picture-id956921106?k=20&m=956921106&s=612x612&w=0&h=wB3hdHTgWrIJTV3rulRxtsnCUiV77Sy8dY868Ur1eP4="
+  },
+  {
+    "id": "SBA",
+    "name": "Santa Barbara, California, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/santa-barbara-view-picture-id1132780184?k=20&m=1132780184&s=612x612&w=0&h=GVNvul0X-3EOz6ZIr2FdV6rrDi7kl6anP51NlDIKv9U="
+  },
+  {
+    "id": "SBP",
+    "name": "San Luis Obispo, California, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/vineyard-near-san-luis-obispo-picture-id915878768?k=20&m=915878768&s=612x612&w=0&h=f9cuiPA_UlUwvb0RlfJp6FtA6KO8BjQsiOgm4Z22P0I="
+  },
+  {
     "id": "SEA",
     "name": "Puget Sound region, Washington, United States",
-    "thumbnail": "https://media.gettyimages.com/photos/sunset-seattle-picture-id615989790?k=6&m=615989790&s=612x612&w=0&h=bdZjzfWy0B1XceGlJHOvKs3tlvRqF4hf4pAcv476gRI="
+    "thumbnail": "https://media.gettyimages.com/photos/seattle-skyline-picture-id520460172?k=20&m=520460172&s=612x612&w=0&h=2jezA3Qs8UOAWdicTDDUJSsg2zjbp9d2Vq4QZL2YMo4="
+  },
+  {
+    "id": "SFO",
+    "name": "San Francisco Bay Area, California, United States",
+    "thumbnail": "https://media.gettyimages.com/photos/san-francisco-skyline-at-sunset-sunlight-california-usa-picture-id1331644378?k=20&m=1331644378&s=612x612&w=0&h=iqbvPDop8Tl21Mu9ffgWhSbXM2mUP-oTJuplsGHtozo="
   },
   {
     "id": "YVR",
     "name": "Metro Vancouver, British Columbia, Canada",
-    "thumbnail": "https://media.gettyimages.com/photos/burrard-bridge-vancouver-british-columbia-canada-picture-id629829924?k=6&m=629829924&s=612x612&w=0&h=g5KEUKd1aVwGVzZTs5PIm2HN6g876Qm9vHBBp42IXSM="
+    "thumbnail": "https://media.gettyimages.com/photos/vancouver-skyline-at-stanley-park-picture-id544439774?k=20&m=544439774&s=612x612&w=0&h=h1SUJHzKe6IpYfmM6OwxRzZVnTUpbuee-tdJ4KUaNxE="
   },
   {
     "id": "YYJ",

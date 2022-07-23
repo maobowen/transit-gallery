@@ -1,0 +1,82 @@
+{
+  "id": "SFO",
+  "name": "San Francisco Bay Area, California, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/san-francisco-skyline-at-sunset-sunlight-california-usa-picture-id1331644378?k=20&m=1331644378&s=612x612&w=0&h=iqbvPDop8Tl21Mu9ffgWhSbXM2mUP-oTJuplsGHtozo=",
+  "timezone": "America/Los_Angeles",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "SAM",
+        "name": "San Mateo County Transit District",
+        "shortName": "SamTrans"
+      },
+      {
+        "id": "SFM",
+        "name": "San Francisco Municipal Railway",
+        "shortName": "Muni"
+      }
+    ],
+    "records": [
+      {
+        "filename": "SFO-SFM_30-SFM_5710-202207041956.jpg",
+        "notes": "A Downtown San Francisco bound Muni Route 30 trolleybus was seen at Stockton St & Clay St in Chinatown, followed by a City College bound Muni Route 8 articulated bus."
+      },
+      {
+        "filename": "SFO-SFM_30S-SFM_5725-202207041849.jpg",
+        "notes": "Several Muni buses were seen at Stockton St & Bush St in Chinatown, including a Marina bound Route 30S trolleybus, a Marina bound Route 45 trolleybus and a City College bound Route 8 articulated bus."
+      },
+      {
+        "filename": "SFO-SFM_5-SFM_7277-202207041833.jpg",
+        "notes": "A Downtown San Francisco bound Muni Route 5 articulated trolleybus was seen at Market St & Powell St in Downtown San Francisco."
+      },
+      {
+        "filename": "SFO-SFM_14-SFM_7246-202207040040.jpg",
+        "notes": "A Daly City bound Muni Route 14 articulated trolleybus was seen at Market St & Steuart St in Downtown San Francisco, followed by several laying over Muni articulated trolleybuses."
+      },
+      {
+        "filename": "SQL-SAM_292-SAM_475-202207040034.jpg",
+        "notes": "A San Mateo bound SamTrans Route 292 bus was seen at Drumm St & Clay St in Downtown San Francisco."
+      },
+      {
+        "filename": "SQL-SAM_292-SAM_453-202207040034.jpg",
+        "notes": "Two out-of-service SamTrans buses were seen laying over at Drumm St & Clay St in Downtown San Francisco. These buses just finished Downtown San Francisco bound Route 292 journeys."
+      },
+      {
+        "filename": "SQL-SAM_398-SAM_821-202207040031.jpg",
+        "notes": "An out-of-service SamTrans articulated bus which just finished a Downtown San Francisco bound Route 398 journey was seen laying over at Drumm St & Clay St in Downtown San Francisco, followed by another out-of-service SamTrans bus which finished a Downtown San Francisco bound Route 292 journey."
+      },
+      {
+        "filename": "SQL-SAM_398-SAM_821-202207040030.jpg",
+        "notes": "An out-of-service SamTrans articulated bus was seen laying over at Drumm St & Clay St in Downtown San Francisco. This bus just finished a Downtown San Francisco bound Route 398 journey."
+      },
+      {
+        "filename": "SQL-SAM_398-SAM_821-202207040028.jpg",
+        "notes": "A Downtown San Francisco bound SamTrans Route 398 articulated bus was seen at Drumm St & Clay St in Downtown San Francisco."
+      },
+      {
+        "filename": "SFO-SFM_14R-SFM_6646-202207040010.jpg",
+        "notes": "A Downtown San Francisco bound Muni Route 14R articulated bus and a Castro bound Muni F Line historic streetcar were seen at Market St & Steuart St in Downtown San Francisco."
+      },
+      {
+        "filename": "SFO-SFM_L-SFM_8859-202207032349.jpg",
+        "notes": "A San Francisco Zoo bound Muni L Line shuttle bus and a Sunnydale bound Muni Route 9 bus were seen at Market St & Steuart St in Downtown San Francisco."
+      },
+      {
+        "filename": "SFO-SFM_L-SFM_8651-202207032337.jpg",
+        "notes": "A Downtown San Francisco bound Muni L Line shuttle bus and a Castro bound Muni F Line historic streetcar were seen at Market St & Drumm St in Downtown San Francisco."
+      },
+      {
+        "filename": "SFO-SFM_24-SFM_5863-202206270039.jpg",
+        "notes": "A Pacific Heights bound Muni Route 24 trolleybus was seen at Bayshore Blvd & Industrial St in Bayview."
+      },
+      {
+        "filename": "SQL-SAM_292-SAM_446-202206270012.jpg",
+        "notes": "A Downtown San Francisco bound SamTrans Route 292 bus was seen at Mission St & 7th St in SoMa."
+      },
+      {
+        "filename": "SFO-SFM_14-SFM_7251-202206270015.jpg",
+        "notes": "A Downtown San Francisco bound Muni Route 14 articulated trolleybus was seen at Mission St & 4th St in SoMa."
+      }
+    ]
+  }
+}
