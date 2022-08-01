@@ -44,6 +44,18 @@
     ],
     "records": [
       {
+        "filename": "SEA-KCM_49-KCM_6063-202207312117.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound King County Metro Route 49 articulate bus was seen on the University Bridge. The bus was a King County Metro's RapidRide vehicle."
+      },
+      {
+        "filename": "SEA-SOT_545-SOT_9666-202207290053.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound Sound Transit Route 545 articulated bus was see at 7th Ave NE & NE 45th St in the University District. The bus was on detour due to an explosion of oxygen tank on I-5 and the following closure of all southbound I-5 lanes. See [service alerts](https://www.soundtransit.org/ride-with-us/service-alerts/expect-significant-delays)."
+      },
+      {
+        "filename": "SEA-SOT_545-SOT_9666-202207290051.jpg",
+        "notes": "[SPECIAL] A Downtown Seattle bound Sound Transit Route 545 articulated bus was see at 7th Ave NE & NE 45th St in the University District. The bus was on detour due to an explosion of oxygen tank on I-5 and the following closure of southbound I-5. See [service alerts](https://www.soundtransit.org/ride-with-us/service-alerts/expect-significant-delays)."
+      },
+      {
         "filename": "SEA-KCM_49-KCM_4501-202205291909.jpg",
         "notes": "A Downtown Seattle bound King County Metro Route 49 articulated trolleybus with trolley poles lowered was seen at U District Station."
       },
@@ -92,7 +104,7 @@
         "notes": "An Ash Way bound Sound Transit Route 511 double-decker was seen at Northgate Station."
       },
       {
-        "filename": "SEA-KCM_B-KCM_8169-202111272346.jpg",
+        "filename": "SEA-KCM_672-KCM_8169-202111272346.jpg",
         "notes": "[SPECIAL] An out-of-service King County Metro articulated bus was seen laying over at Bellevue Transit Center. It would be assigned as a Redmond bound King County Metro RapidRide B Line later. The bus was a King County Metro's normal vehicle, not a RapidRide one."
       },
       {
@@ -340,7 +352,7 @@
         "notes": "An Edmonds bound Community Transit Route 871 articulated bus was seen at E Stevens Way NE & Pend Oreille Rd NE on the University of Washington campus."
       },
       {
-        "filename": "SEA-KCM_E-KCM_6254-202106122239.jpg",
+        "filename": "SEA-KCM_675-KCM_6254-202106122239.jpg",
         "notes": "A Downtown Seattle bound King County Metro RapidRide E Line articulated bus were seen at Aurora Village Transit Center."
       },
       {

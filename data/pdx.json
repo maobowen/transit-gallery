@@ -1,0 +1,33 @@
+{
+  "id": "PDX",
+  "name": "Portland metropolitan area, Oregon, United States",
+  "thumbnail": "https://media.gettyimages.com/photos/portland-oregon-waterfront-skyline-and-hawthorne-b-picture-id135333083?k=20&m=135333083&s=612x612&w=0&h=AXWH6Ns1OggxpEeWq_-RQqhLiGEY3xrX02n5Zbz69VI=",
+  "timezone": "America/Los_Angeles",
+  "transitBus": {
+    "agencies": [
+      {
+        "id": "TRIMET",
+        "name": "Tri-County Metropolitan Transportation District of Oregon",
+        "shortName": "TriMet"
+      }
+    ],
+    "records": [
+      {
+        "filename": "PDX-TRIMET_4-TRIMET_3261-202207240059.jpg",
+        "notes": "A St Johns bound TriMet Route 4 bus was seen at SW 6th Ave & SW Yamhill St in Downtown Portland, followed by a Downtown Portland bound TriMet Route 2 bus and a Parkrose bound TriMet Route 12 bus."
+      },
+      {
+        "filename": "PDX-TRIMET_12-TRIMET_3944-202207240007.jpg",
+        "notes": "A Tigard bound TriMet Route 12 bus was seen at SW 5th Ave & SW Yamhill St in Downtown Portland."
+      },
+      {
+        "filename": "PDX-TRIMET_20-TRIMET_3264-202207232029.jpg",
+        "notes": "A Gresham bound TriMet Route 20 bus was seen at W Burnside St & NW 18th Ave in Goose Hollow."
+      },
+      {
+        "filename": "PDX-TRIMET_20-TRIMET_3203-202207232025.jpg",
+        "notes": "A Beaverton bound TriMet Route 20 bus was seen at W Burnside St & NW 10th Ave in Downtown Portland."
+      }
+    ]
+  }
+}
